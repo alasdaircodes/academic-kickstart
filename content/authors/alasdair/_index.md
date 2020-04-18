@@ -1,36 +1,41 @@
 ---
 # Display name
-title: Alasdair Pearce
+title: Nelson Bighetti
 
 # Username (this should match the folder name)
 authors:
-- admin
+- alasdair
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Market Research and Data Visualisation
+role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Savanta
-  url: "www.savanta.com"
+- name: Stanford University
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Data visu
+- Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
 
 education:
   courses:
-  - course: MA (Hons) Law
-    institution: St Catharine's College, Cambridge University
-    year: 2010
-
+  - course: PhD in Artificial Intelligence
+    institution: Stanford University
+    year: 2012
+  - course: MEng in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2009
+  - course: BSc in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -65,4 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Alasdair Pearce is a senior consultant at Savanta Research.
+Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
