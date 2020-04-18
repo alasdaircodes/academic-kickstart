@@ -18,7 +18,7 @@ organizations:
   url: "www.savanta.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I work as a senior consultant at Savanta, a market research and intelligence agency. I'm interested in data visualisation and helping clients to translate complex data into stories that generate action. In my personal life i'm involved with the Effective Altruism - a community of people that tries to use high-quality evidence and careful reasoning to work out how to help others as much as possible. My hobbies are cooking and cycling. 
+bio: I work as a senior consultant at Savanta, a market research and intelligence agency. I'm interested in data visualisation and helping clients to translate complex data into stories that generate action. In my personal life i'm involved with the Effective Altruism - a community of people that tries to use high-quality evidence and careful reasoning to work out how to help others as much as possible. My hobbies are cooking and cycling.
 
 interests:
 - Data Visualisation
@@ -42,29 +42,22 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
-# Organizational groups that you belong to (for People widget)
+[# Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- Visitors
+- Visitors]
 ---
 
-Alasdair Pearce is a senior consultant at Savanta Research.
+I am a senior consultant at Savanta, a market research and intelligence agency. I'm interested in data visualisation and helping clients to translate complex data into stories that generate action. In my personal life i'm involved with the Effective Altruism - a community of people that tries to use high-quality evidence and careful reasoning to work out how to help others as much as possible. In my spare time I enjoy cooking and cycling
