@@ -53,11 +53,11 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
-[# Organizational groups that you belong to (for People widget)
+# Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors]
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
 I am a senior consultant at Savanta, a market research and intelligence agency. I'm interested in data visualisation and helping clients to translate complex data into stories that generate action. In my personal life i'm involved with the Effective Altruism - a community of people that tries to use high-quality evidence and careful reasoning to work out how to help others as much as possible. In my spare time I enjoy cooking and cycling
