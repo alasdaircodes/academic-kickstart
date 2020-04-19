@@ -1,0 +1,21 @@
+# Theme metadata
+name = "alasdair"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#2962ff"
+
+# Menu
+menu_primary = "#2962ff"
+menu_text = "#fff"
+menu_text_active = "#00828B"
+menu_title = "#fff"
+
+# Backgrounds
+background = "#192d21"
+home_section_odd = "#192d21"
+home_section_even = "#192d21"
+
+font = "rose"
